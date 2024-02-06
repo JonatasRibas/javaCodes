@@ -8,7 +8,7 @@ public class Livro{
 
     }
 
-    public Livro(Livro objOutro) trhows Exception{
+    public Livro(Livro objOutro) throws Exception trhows Exception{
         if (objOutro == null)
             throw new Exception("Forneça uma instância para ser criada uma cópia");
         
