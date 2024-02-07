@@ -1,0 +1,20 @@
+Suponha implementada a classe GeneroLiterario, que possui os
+atributos codigo (int), nome (String), todos os métodos getters
+e setters com as devidas validações, o método equals e o método
+toString implementados. A classe supracitada representa em suas
+instancias generos literários. 
+
+a) Implemente a classe Pessoa, que possui os atributos codigo (int), 
+nome (String), cpf (String), além disso, implementar os métodos
+getters e setters com devidas validações, um construtor vazio, 
+e os métodos obrigatórios e cabíveis.
+
+b) Implemente a classe Livro, que possui os atributos tombo 
+(String), titulo (String), autor (Pessoa), genero (GeneroLiterario),
+getters e setters com devidas validações, um construtor vazio, 
+e os métodos obrigatórios e cabíveis.
+
+c) Implemente a classe Emprestimo, que possui os atributos 
+codigo (int), aluno (Pessoa), livro (Livro), getters e setters
+com devidas validações, um construtor vazio e os métodos
+obrigatórios e cabíveis.
