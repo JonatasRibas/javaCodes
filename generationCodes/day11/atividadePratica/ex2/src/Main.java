@@ -27,7 +27,6 @@ public class Main {
         System.out.println("\n\nSoma: " + soma);
 
         double media = (double) soma / 10;
-
         System.out.printf("\nMédia: %.2f\n", media);
 
         scanner.close();
